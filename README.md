@@ -8,7 +8,7 @@ A make.fun entry for **The Worst App Idea Ever Pitched** ($2, top 8 paid).
 
 ## The entry
 
-> BatterySaver extends your phone battery to a full week by turning the screen off permanently, so you never have to worry about it dying again.
+> NapAlarm wakes you up exactly one minute before your alarm goes off, so you never miss the experience of being woken up.
 
 One sentence, 142 characters. A battery-life app whose solution to dying
 batteries is to switch the phone off for good — a product that sounds real,
